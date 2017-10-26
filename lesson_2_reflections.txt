@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+-->git is initilized in the repo with 0 commits.
+	this need to be done to commit and save the history of the repo for easy debuging.
+
