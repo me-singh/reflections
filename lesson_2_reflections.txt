@@ -10,3 +10,19 @@ How can you use the staging area to make sure you have one commit per logical ch
 -->by using cmd git diff which checks for the changes b/w working directory and the staging area
 	from where after confirming commit can be done.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-->branches makes it easier for a programmer to try developing a change which he/she is not sure of adding later.
+	in this case programmer creates a new branch and do changes to that branch without affecting the master branch.
+
+How do the diagrams help you visualize the branch structure?
+-->it helps in understanding the flow of execution of git commands steps by steps.
+	makes git flow easy to understand and helps in easy debugging.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-->merging two branch takes commit from one branch and include into another such that changes made in
+	that branch get included with the changes made in this branch(main branch).
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-->merging manually makes you decide when to merge the branches rather than
+	merging automatically which may lead to lots of unrequired commits and due to this
+	debugging will not be easy.
