@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	clone-To clone(copy) repo of someone or yours(recommended) into your local host or pc.
 	branches-To make changes to a project without affecting the master branch(main prototype).
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+-->so that changes made in the github can be stored in that remote(origin/master) and
+	 this makes merging and debugging the commits easily without internet access.
