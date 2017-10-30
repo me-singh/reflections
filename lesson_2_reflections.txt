@@ -2,3 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 -->git is initilized in the repo with 0 commits.
 	this need to be done to commit and save the history of the repo for easy debuging.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-->it is used to add different files(one or more) into the repository.
+	act as a middle element for the repository and git repository(working directory).
+
+How can you use the staging area to make sure you have one commit per logical change?
+-->by using cmd git diff which checks for the changes b/w working directory and the staging area
+	from where after confirming commit can be done.
+
