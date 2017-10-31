@@ -19,3 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 -->using other version-control online.github collaboration will be easier as it is secured
 	and easy to do whereas other vertion control may or may not be as easy and secured as github.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+-->when we are not sure about the changes we are going to make we should make changes to seperate branch
+	and test it before metging it with the master branch.it gives easy debugging,easy collaboration and
+	good output product(master generated code or program).
